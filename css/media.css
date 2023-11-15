@@ -1,0 +1,29 @@
+@media screen and (0px < width < 786px) {
+  .cover h1 {
+    font-size: 25px;
+  }
+  .media-d-column {
+    flex-direction: column;
+  }
+  .about .item {
+    width: 100%;
+    padding-top: 20px;
+  }
+  .p-lst{
+    padding-inline:0px ;
+  }
+  .Services-item{
+    width: 100%;
+  }
+  .card{
+    width: 100%;
+  }
+  .footer-item{
+    width: 100%;
+  }
+  .button{
+    width: 40%;
+  }
+  
+}
+
